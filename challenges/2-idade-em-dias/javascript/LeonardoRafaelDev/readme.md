@@ -19,7 +19,7 @@
 Use o comando abaixo:
 
 ```bash
-node idadeEmDias.js arg
+node index.js arg
 
-# node idadeEmDias.js 300
+# node index.js 300
 ```
